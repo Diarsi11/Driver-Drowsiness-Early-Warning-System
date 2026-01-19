@@ -79,9 +79,12 @@ self.capture = cv2.VideoCapture(1)
 1. **Clone Repository**
 ```bash
 git clone https://github.com/Diarsi11/Driver-Drowsiness-Early-Warning-System.git
+```
+2. **Masuk ke folder project**
+```bash
 cd Driver-Drowsiness-Early-Warning-System
 ```
-2. **Instal Dependensi**
+3. **Instal Dependensi**
 ```bash
 pip install -r requirements.txt
 ```
