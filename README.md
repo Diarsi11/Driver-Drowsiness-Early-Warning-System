@@ -78,8 +78,8 @@ self.capture = cv2.VideoCapture(1)
 
 1. **Clone Repository**
 ```bash
-git clone https://github.com/username/project-name.git
-cd project-name
+git clone https://github.com/Diarsi11/Driver-Drowsiness-Early-Warning-System.git
+cd Driver-Drowsiness-Early-Warning-System
 ```
 2. **Instal Dependensi**
 ```bash
