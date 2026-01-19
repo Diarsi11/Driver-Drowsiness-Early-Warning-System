@@ -1,0 +1,34 @@
+# Python (Byte-compiled / optimized)
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual Environments
+venv/
+.venv/
+env/
+
+# GUI / Build
+build/
+dist/
+*.spec
+
+# Database
+detection_history.db
+*.sqlite3
+
+# Model & Training Logs
+runs/
+*.log
+
+# IDEs
+.vscode/
+.idea/
+
+# OS Metadata
+.DS_Store
+Thumbs.db
+
+# PyInstaller sisa build
+*.exe
+*.pyz
